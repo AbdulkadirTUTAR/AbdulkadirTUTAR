@@ -89,7 +89,3 @@ Linux systems, hosting infrastructure, AWS networking, server troubleshooting, a
 </p>
 
 ---
-
-## ⚡ Fun Fact
-
-I learn best by breaking servers and rebuilding them stronger.
